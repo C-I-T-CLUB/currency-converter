@@ -34,7 +34,7 @@ From Android Studio:
 ## Maintainers
 This project is mantained by:
 * [Oyamo Brian](https://github.com/oyamo/)
-* [Erick Njoroge](https://github.com/lifecod3r101/)
+* [Eric Njoroge](https://github.com/lifecod3r101/)
 
 
 ## Contributing
