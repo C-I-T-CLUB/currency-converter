@@ -17,7 +17,7 @@ git clone git@github.com:C-I-T-CLUB/currency-converter.git
 
 ### HTTPS 
 ```bash
-git clone git@github.com:C-I-T-CLUB/currency-converter.git
+git clone https://github.com/C-I-T-CLUB/currency-converter
 ```
 
 
