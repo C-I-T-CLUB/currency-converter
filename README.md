@@ -1,4 +1,4 @@
-# unit-converter
+# currency-converter
 This is an Android Based Application for helping users convert between currencies. 
 
 This is part of our Android Series Project
