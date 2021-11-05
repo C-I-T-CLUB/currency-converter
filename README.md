@@ -8,6 +8,10 @@ This project has been built using:
 * [Kotlin](https://kotlinlang.org) - A multipurpose language popularly used for making mobile applications
 * [eXtensible Markup Language (XML)](https://kotlinlang.org) - A Markup Language for making user interfaces
 
+## Preview
+![preview](screenshot/screencast.gif "Sample conversion")
+
+
 ## Installation
 Clone this repository and import into **Android Studio**
 ### Using SSH
